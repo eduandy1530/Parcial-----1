@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Parcial-1</string>
+    <string-array name="array_Concepts">
+        <item>Android</item>
+        <item>Java</item>
+        <item>List View</item>
+        <item>Fragmento</item>
+    </string-array>
+    <string name="Android">
+        Android es el nombre de un sistema operativo que se emplea en dispositivos móviles, por lo general con pantalla táctil.
+    </string>
+    <string name="Java">
+        Java es un lenguaje de programación y una plataforma informática comercializada por primera vez en 1995 por Sun Microsystems.
+    </string>
+    <string name="ListView">
+       Un ListView muestra una lista de items(cada item de la lista puede estar compuesto por varios controles visuales) y nos permite interactuar con sus elementos (seleccionarlos, borrarlos, reordenarlos etc.
+    </string>
+    <string name="Fragmento">
+        Un fragment podría definirse como una porción de la interfaz de usuario que puede añadirse o eliminarse de la interfaz de forma independiente al resto de elementos de la actividad, y que por supuesto puede reutilizarse en otras actividades
+    </string>
+</resources>
